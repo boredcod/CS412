@@ -1,4 +1,4 @@
-function evaluate (s){
+evaluate = (s) =>{
     let pointer = 0;
     let firstNum = "";
     let operator = ""
